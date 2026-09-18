@@ -1,6 +1,6 @@
 # Hi, I'm Roobal 👋
 
-### Integrated Marketing | Campaigns | Growth & Demand Gen | CRM & Lifecycle | MarTech | AI Workflows
+### Integrated Marketing · Campaigns · Growth & Demand Gen · CRM & Lifecycle · MarTech · AI Workflows
 
 I’m a commercially focused marketing professional with **5.5+ years of experience** across EdTech, Fintech, SaaS and digital products.
 
@@ -10,7 +10,7 @@ My work sits at the intersection of **commercial strategy, customer behaviour, c
 
 I work across the full marketing lifecycle, from defining audiences and propositions through acquisition, demand generation, nurture, conversion and retention, while connecting channels, CRM, Sales and measurement into one joined up journey.
 
-I also build systems around that work, using automation and AI to reduce operational friction, structure complex workflows and help marketers make better decisions.
+I also build systems around that work, using automation and AI to reduce operational friction, structure complex workflows and help marketers make better decisions.”
 
 ---
 
@@ -34,11 +34,11 @@ The prototype turns behavioural signals into actionable audience segments, then 
 
 ### 🇬🇧 UK Sponsor Me
 
-Finding a role in the UK is only one part of the job search. For candidates who may need Skilled Worker sponsorship, the process often becomes fragmented across **sponsor checks, vacancy wording, company research, LinkedIn searches and personalised outreach**.
+Finding a role in the UK is only one part of the job search. For candidates who may need Skilled Worker sponsorship, the process can become fragmented across **sponsor checks, vacancy wording, company research, LinkedIn searches and personalised outreach**.
 
 I built **UK Sponsor Me** to bring that workflow together.
 
-The tool helps move from a job opportunity to a clearer next action by combining **official sponsor verification, vacancy analysis, role-relevant contact discovery and CV-informed outreach** in one structured journey.
+The tool combines **official sponsor verification, vacancy analysis, role relevant contact discovery and CV informed outreach** into one structured journey.
 
 **Opportunity → Sponsor verification → Vacancy analysis → Relevant people → Verified contact → Personalised outreach**
 
