@@ -1,6 +1,6 @@
 # Hi, I'm Roobal 👋
 
-### Integrated Marketing · Growth & Demand Generation · CRM & Lifecycle · MarTech · AI Workflows & Automation
+### Integrated Marketing | Campaigns | Growth & Demand Gen | CRM & Lifecycle | MarTech | AI Workflows
 
 I’m a commercially focused marketing professional with **5.5+ years of experience** across EdTech, Fintech, SaaS and digital products.
 
@@ -10,7 +10,7 @@ My work sits at the intersection of **commercial strategy, customer behaviour, c
 
 I work across the full marketing lifecycle, from defining audiences and propositions through acquisition, demand generation, nurture, conversion and retention, while connecting channels, CRM, Sales and measurement into one joined up journey.
 
-I’m also increasingly building systems around that work, using automation and AI to reduce operational friction, structure complex workflows and help marketers make better decisions.
+I also build systems around that work, using automation and AI to reduce operational friction, structure complex workflows and help marketers make better decisions.
 
 ---
 
