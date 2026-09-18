@@ -18,11 +18,15 @@ I’m also increasingly building systems around that work, using automation and 
 
 ### 🧠 Client Retention Intelligence
 
-A marketing intelligence prototype designed to turn behavioural signals into clearer retention decisions.
+Marketing teams often have plenty of customer engagement data, but the harder question is **what to do with it**. A dashboard might show declining activity or disengagement, but it does not always tell you which audiences need attention, what action to take or how to measure whether that intervention worked.
 
-Rather than stopping at reporting, the system groups audiences by engagement behaviour and translates those signals into recommended actions, hypotheses, experiments and KPIs.
+I built **Client Retention Intelligence** to bridge that gap.
 
-**Who needs attention? → What might be changing? → What should Marketing do next? → How would we test whether it worked?**
+The prototype turns behavioural signals into actionable audience segments, then connects those signals to **retention priorities, recommended marketing actions, campaign hypotheses, experiments and KPIs**.
+
+**Behaviour → Audience → Risk or opportunity → Marketing action → Experiment → Measurement**
+
+🌐 **[Live Project](https://behavioural-retention-intelligence.netlify.app)** · 📂 **[View Project](https://github.com/roobalgupta/client-retention-intelligence)**
 
 `Lifecycle Marketing · Retention · Segmentation · Experimentation · Decision Support · AI Workflows · Netlify`
 
@@ -30,15 +34,15 @@ Rather than stopping at reporting, the system groups audiences by engagement beh
 
 ### 🇬🇧 UK Sponsor Me
 
-A workflow I built around a problem I encountered while navigating the UK job market.
+Finding a role in the UK is only one part of the job search. For candidates who may need Skilled Worker sponsorship, the process often becomes fragmented across **sponsor checks, vacancy wording, company research, LinkedIn searches and personalised outreach**.
 
-It connects:
+I built **UK Sponsor Me** to bring that workflow together.
 
-**🔎 Sponsor verification → 📄 Vacancy analysis → 👥 Role relevant contact discovery → ✉️ CV informed outreach**
+The tool helps move from a job opportunity to a clearer next action by combining **official sponsor verification, vacancy analysis, role-relevant contact discovery and CV-informed outreach** in one structured journey.
 
-The product originally relied more heavily on generative AI research. Through testing, I redesigned it around **official data, deterministic logic, human verification and selective AI**, making the core workflow more resilient and less dependent on model availability.
+**Opportunity → Sponsor verification → Vacancy analysis → Relevant people → Verified contact → Personalised outreach**
 
-The contact discovery layer also adapts to the Marketing function being recruited for rather than presenting the same generic leadership searches for every vacancy.
+🌐 **[Live Project](https://uk-sponsor-me.netlify.app/)** · 📂 **[View Project](https://github.com/roobalgupta/uk-sponsor-me.)**
 
 `Workflow Design · Research Automation · Data Verification · Personalisation · Product Thinking · AI Assisted Build · Netlify Functions`
 
