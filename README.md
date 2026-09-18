@@ -149,10 +149,12 @@ That is the thread connecting the projects I build here.
 
 ---
 
-## 👋 Let's connect
+## 👋 Interested in working together?
 
-I’m interested in conversations around **integrated marketing, growth and demand generation, CRM, lifecycle, marketing technology, customer journeys and practical applications of AI in Marketing**.
+If you're hiring across **integrated marketing, campaign management, growth and demand generation, CRM, lifecycle marketing or marketing technology**, I'd be happy to share my CV and talk through my experience in more detail.
 
-If you’ve tried any of my projects, found something useful or spotted something I could make better, I’d genuinely like to hear from you.
+If you've explored one of the projects here, I'd also genuinely love to hear what you thought.
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/roobalgupta11/)
+📄 **For my full experience and CV:** [Drop me an email](mailto:roobal.gupta123@gmail.com)
+
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/roobalgupta11/)
