@@ -1,120 +1,158 @@
 # Hi, I'm Roobal 👋
 
-### Campaign Management · Growth · CRM & Lifecycle · Marketing Technology · AI
+### Integrated Marketing · Growth & Demand Generation · CRM & Lifecycle · MarTech · AI Workflows & Automation
 
-I'm a marketer with a storyteller's instinct and 5.5+ years of experience across EdTech, Fintech, SaaS and digital products.
+I’m a commercially focused marketing professional with **5.5+ years of experience** across EdTech, Fintech, SaaS and digital products.
 
-Originally from India and now working in the UK, my marketing journey has taken me across very different audiences, products and markets. What has stayed consistent throughout is my curiosity about why people respond to certain ideas, messages and experiences, and how marketing can connect those moments to a measurable business outcome.
+My experience spans **India and the UK**, with campaigns and marketing activity across **UK, US / North America, EMEA and APAC markets**.
 
-I completed my MSc in Marketing Management at the University of Southampton and have spent almost two years working within UK higher education technology, where I have owned integrated B2B campaigns from end to end.
+My work sits at the intersection of **commercial strategy, customer behaviour, campaign execution, CRM, technology and performance**.
 
-That means starting much earlier than the email or LinkedIn post.
+I work across the full marketing lifecycle, from defining audiences and propositions through acquisition, demand generation, nurture, conversion and retention, while connecting channels, CRM, Sales and measurement into one joined up journey.
 
-I think about the audience, the problem we are trying to solve, the proposition, the story, the journey, the channels, the CRM logic, the conversion points, Sales follow up and ultimately what the performance is telling us to do next.
+I’m also increasingly building systems around that work, using automation and AI to reduce operational friction, structure complex workflows and help marketers make better decisions.
 
-Before higher education, my experience took me through quite different sides of marketing.
+---
 
-At **Sezzle**, a Buy Now Pay Later fintech platform, I worked across lifecycle marketing, CRM, acquisition and customer communications for a large consumer audience.
-
-At **Yara International**, I moved closer to product and UX, working on digital experiences and content for both B2C farmer and B2B retailer audiences.
-
-Earlier at **Crewscale**, I worked within B2B SaaS, helping build content, SEO and digital marketing foundations in a growing technology business.
-
-Those experiences are probably why I don't see marketing as one particular channel.
-
-I tend to spot marketing everywhere.
-
-In the wording of a product screen.  
-In the journey after someone fills in a form.  
-In the reason someone opens an email but doesn't convert.  
-In the difference between a campaign being delivered and a campaign actually working.
-
-And increasingly, in the systems we can build around all of it.
-
-## What I'm exploring
-
-Over the last year, I've become particularly interested in how AI can move beyond simply helping marketers write faster.
-
-I'm more interested in what happens when AI is connected to the actual marketing process.
-
-Audience intelligence → campaign decisions → segmentation → journeys → experimentation → optimisation.
-
-I use AI across research, planning, structuring, workflow design, content development, QA and analysis, while keeping the strategy, judgement and final decision making human.
-
-This GitHub is where I'm documenting that exploration through the marketing tools, prototypes and systems I build.
-
-## What I've built so far
+## 🛠️ What I've built
 
 ### 🧠 Client Retention Intelligence
 
-An AI powered marketing prototype designed to turn customer behaviour into clearer retention decisions.
+A marketing intelligence prototype designed to turn behavioural signals into clearer retention decisions.
 
-Instead of only presenting engagement data, the system groups customers into behavioural segments such as active, recently lapsed, dormant and inactive audiences, then translates those signals into recommended marketing actions, campaign hypotheses and experiments.
+Rather than stopping at reporting, the system groups audiences by engagement behaviour and translates those signals into recommended actions, hypotheses, experiments and KPIs.
 
-The thinking behind it comes from lifecycle marketing rather than technology alone:
+**Who needs attention? → What might be changing? → What should Marketing do next? → How would we test whether it worked?**
 
-**Who needs attention? → Why might behaviour be changing? → What should marketing do next? → How would we test whether it worked?**
+`Lifecycle Marketing · Retention · Segmentation · Experimentation · Decision Support · AI Workflows · Netlify`
 
-`Audience Segmentation · Lifecycle Marketing · Retention · Experimentation · AI Decision Support`
+---
 
-### 🔎 UK Sponsor Me
+### 🇬🇧 UK Sponsor Me
 
-A tool I built around a problem I encountered personally while navigating the UK job market.
+A workflow I built around a problem I encountered while navigating the UK job market.
 
-The process of checking whether an organisation sponsors Skilled Worker visas, researching the company, identifying the right people and then creating relevant outreach usually happens across several disconnected platforms.
+It connects:
 
-I wanted to see whether I could bring those steps into one workflow.
+**🔎 Sponsor verification → 📄 Vacancy analysis → 👥 Role relevant contact discovery → ✉️ CV informed outreach**
 
-UK Sponsor Me connects sponsor verification, company research, contact discovery and tailored outreach into a simpler decision journey.
+The product originally relied more heavily on generative AI research. Through testing, I redesigned it around **official data, deterministic logic, human verification and selective AI**, making the core workflow more resilient and less dependent on model availability.
 
-`Workflow Design · Research Automation · Personalisation · AI Assisted Outreach · Decision Support`
+The contact discovery layer also adapts to the Marketing function being recruited for rather than presenting the same generic leadership searches for every vacancy.
 
-## How I think about campaigns
+`Workflow Design · Research Automation · Data Verification · Personalisation · Product Thinking · AI Assisted Build · Netlify Functions`
 
-For me, campaign management looks something like:
+---
+
+## 🧭 How I approach marketing
+
+I think about marketing as a connected commercial system rather than a collection of individual channels.
 
 **Business problem → Audience → Insight → Objective → Proposition → Story → Journey → Channels → CRM → Conversion → Measurement → Learning**
 
-The execution matters, but so does everything that happens before and after it.
+The questions I tend to work through are:
 
-I enjoy working at that intersection between strategy and delivery, where you're close enough to the work to understand what is happening, but senior enough to question whether it is the right thing to be doing in the first place.
+* **What commercial outcome are we trying to influence?**
+* **Which audience or segment matters most?**
+* **What behaviour are we trying to change?**
+* **Where does demand come from and how does it move through the funnel?**
+* **Where are prospects or customers dropping away?**
+* **What should happen after acquisition?**
+* **How should CRM, lifecycle journeys and channel activity work together?**
+* **Where does Sales need to enter the journey?**
+* **Which signals actually tell us whether the campaign is working?**
+* **What should we optimise, test, scale, stop or rethink next?**
 
-## Channels I've worked across
+That perspective runs across **integrated campaigns, demand generation, growth, lifecycle marketing, CRM and marketing operations**.
 
-Email and lifecycle marketing · CRM and nurture journeys · LinkedIn organic and paid · Google Ads · Websites and landing pages · SEO · Content marketing · Webinars · Events · Partner marketing · Social media · SMS · In app communications · Sales enablement · Conversion optimisation
+---
 
-## Marketing technology I work with
+## 📈 Commercial Marketing & Growth
 
-**CRM & Marketing Automation**  
-Salesforce · Pardot · Salesforce Marketing Cloud · HubSpot · Force24 · Mailchimp · Zapier
+My experience spans the areas that connect awareness, acquisition, conversion and retention:
 
-**Analytics & Performance**  
-GA4 · Google Tag Manager · Power BI · UTM Tracking · Google Search Console · SEMrush
+* **Integrated Campaign Strategy:** audience, proposition, messaging, journey design, channel planning and optimisation
+* **Growth & Demand Generation:** acquisition, lead generation, paid and organic demand, conversion journeys and Sales handover
+* **CRM & Lifecycle:** segmentation, nurture, automation, lead scoring, engagement, retention and reactivation
+* **Digital Performance:** landing pages, paid media, SEO, content and conversion journeys
+* **Marketing Operations:** campaign architecture, CRM processes, attribution, data flows, workflow design and Martech implementation
+* **Measurement & Optimisation:** campaign KPIs, funnel behaviour, channel performance, conversion signals and test and learn decisions
+* **Cross Functional Delivery:** Sales, Product, agencies, external partners and internal stakeholders
 
-**Campaign & Digital**  
-LinkedIn Campaign Manager · WordPress · DIVI · Microsoft Teams · Asana · Moqups · Canva · Figma
+---
 
-**AI & Build Tools**  
-ChatGPT · Google AI Studio · Gemini · Microsoft Copilot · Perplexity · Netlify
+## 🤖 AI Workflows & Marketing Automation
 
-## What I'm curious about next
+I use AI as part of the **marketing operating process**, rather than treating it only as a content generation tool.
 
-I'm currently experimenting with another marketing technology idea around one question:
+That can span:
 
-**What if a marketer could take a messy campaign idea and turn it into a structured, senior level campaign workflow before execution even begins?**
+**Research → Insight → Planning → Campaign Structure → Segmentation → Content → QA → Analysis → Optimisation**
 
-Audience. Strategy. Journey. CRM. Channels. Measurement. Dependencies. Decisions.
+I also use AI assisted development tools to prototype solutions when a marketing process feels repetitive, fragmented or unnecessarily manual.
 
-It's still being built, which is exactly why I'm interested in it.
+The principle behind that work is simple:
 
-A lot of my learning with AI comes from building something, testing where it breaks, questioning whether it is actually useful for a marketer, and then rebuilding it.
+> **Automate the friction, not the judgement.**
 
-## Let's connect
+Strategy, prioritisation and final decision making remain human.
 
-I'm always interested in conversations around campaign management, growth, CRM, lifecycle marketing, customer journeys and practical applications of AI in marketing.
+---
 
-Especially the kind of conversations that start with:
+## 📣 Channels I've worked across
 
-**“What happens if we try this?”**
+Email & Lifecycle Marketing · CRM & Nurture Journeys · LinkedIn Organic & Paid · Google Ads · Websites & Landing Pages · SEO · Content Marketing · Webinars · Events · Partner Marketing · Social Media · SMS · In App Communications · Sales Enablement · Conversion Optimisation
 
-[LinkedIn](www.linkedin.com/in/roobalgupta11)
+---
+
+## 🧰 Marketing, Data & Technology Stack
+
+### 🔄 CRM, Lifecycle & Marketing Automation
+
+Salesforce · Pardot / Account Engagement · Salesforce Marketing Cloud Next · HubSpot · Force24 · Mailchimp · Zapier
+
+### 📊 Analytics, Measurement & Performance
+
+GA4 · Google Tag Manager · Power BI · UTM Tracking · Google Search Console · SEMrush · LinkedIn Campaign Manager
+
+### 🤖 AI & AI Assisted Build
+
+ChatGPT · Codex · Claude · Claude Code · Google AI Studio · Gemini · Microsoft Copilot · Perplexity
+
+### 🧱 Web, Prototyping & Deployment
+
+HTML/CSS · React · TypeScript · GitHub · Netlify · Netlify Functions · WordPress · DIVI
+
+### 🎨 UX, Creative & Journey Design
+
+Figma · Canva · Adobe InDesign · Moqups · Miro
+
+### 📋 Project, Process & Collaboration
+
+Asana · Jira · Confluence · SharePoint · Microsoft Teams · Scribe
+
+---
+
+## 🧩 Why I build things
+
+Most of the tools I build start with something I recognise from working in Marketing.
+
+* Information sits across too many places.
+* A process depends on repetitive manual steps.
+* A dashboard explains what happened but gives little direction on what to do next.
+* A campaign moves across teams, channels and systems without one clear workflow.
+* There is enough data, but turning it into a decision still takes too much work.
+
+I like taking those messy operational problems and asking whether they can become a clearer **workflow, decision system, automation or lightweight product**.
+
+That is the thread connecting the projects I build here.
+
+---
+
+## 👋 Let's connect
+
+I’m interested in conversations around **integrated marketing, growth and demand generation, CRM, lifecycle, marketing technology, customer journeys and practical applications of AI in Marketing**.
+
+If you’ve tried any of my projects, found something useful or spotted something I could make better, I’d genuinely like to hear from you.
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/roobalgupta11/)
