@@ -12,6 +12,12 @@ I work across the full marketing lifecycle, from defining audiences and proposit
 
 I also build systems around that work, using automation and AI to reduce operational friction, structure complex workflows and help marketers make better decisions.”
 
+### 🚀 Featured work
+
+I build practical projects around **marketing, audience behaviour, lifecycle, workflow design and AI**.
+
+📂 **[Explore my repositories](https://github.com/roobalgupta?tab=repositories)**
+
 ---
 
 ## 🛠️ What I've built
