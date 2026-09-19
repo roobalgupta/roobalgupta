@@ -48,6 +48,22 @@ The tool combines **official sponsor verification, vacancy analysis, role releva
 
 ---
 
+### <img src="https://cdn.simpleicons.org/instagram/E4405F" width="18" height="18" alt="Instagram"> What the Plot
+
+An independent Instagram storytelling and audience growth project I started to understand how **hooks, narratives and creative choices translate into real audience behaviour**.
+
+Since launching in November 2025, I’ve published **50+ pieces of content**, with **45+ crossing 10K views** and Instagram's Professional Dashboard recording **1M+ organic views within 30 days**.
+
+The channel has also led to **paid and partnership collaborations**, giving me a space to combine storytelling with audience insight, creative experimentation and performance.
+
+**Storytelling → Audience response → Creative testing → Performance → Iteration**
+
+📱 **[Explore the Channel](https://www.instagram.com/what.the.plot_/)** · 📂 **[View Project](https://github.com/roobalgupta/what-the-plot)**
+
+`Audience Growth · Content Strategy · Organic Social · Creative Testing · Storytelling · Creator Partnerships`
+
+---
+
 ## 🧭 How I approach marketing
 
 I think about marketing as a connected commercial system rather than a collection of individual channels.
