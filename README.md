@@ -54,6 +54,22 @@ The tool combines **official sponsor verification, vacancy analysis, role releva
 
 ---
 
+###  Vaidann | Family Business Operations App
+
+Running a small family business involves more than managing products and sales. Orders, customer details, payments, discounts and monthly records can quickly become difficult to track when information is spread across different places.
+
+I built **Vaidann** to simplify those everyday operations for our family-run food business.
+
+The application brings order management, customer history, cash and UPI payment tracking, discounts, staff access and monthly reporting into one connected system. Built using Firebase Authentication and Cloud Firestore, it turns a real operational challenge into a practical digital solution.
+
+**Order → Customer history → Payment tracking → Reconciliation → Reporting**
+
+📂 [View Project](https://github.com/roobalgupta/Vaidann-Operations-App) · 🎥 [Watch Product Walkthrough](https://github.com/roobalgupta/Vaidann-Operations-App)
+
+`Product Thinking · Business Process Automation · Firebase · Cloud Firestore · Workflow Design · Data Management · AI Assisted Development`
+
+---
+
 ### <img src="https://cdn.simpleicons.org/instagram/E4405F" width="18" height="18" alt="Instagram"> What the Plot
 
 An independent Instagram storytelling and audience growth project I started to understand how **hooks, narratives and creative choices translate into real audience behaviour**.
