@@ -2,7 +2,7 @@
 
 ### Integrated Marketing · Campaigns · Growth & Demand Gen · CRM & Lifecycle · MarTech · AI Workflows
 
-I’m a commercially focused marketing professional with **5.5+ years of experience** across EdTech, Fintech, SaaS and digital products.
+I’m a commercially focused marketing professional with **6 years of experience** across EdTech, Fintech, SaaS and digital products.
 
 My experience spans **India and the UK**, with campaigns and marketing activity across **UK, US / North America, EMEA and APAC markets**.
 
