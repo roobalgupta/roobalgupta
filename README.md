@@ -163,7 +163,7 @@ ChatGPT · Codex · Claude · Claude Code · Google AI Studio · Gemini · Micro
 
 ### 🧱 Web, Prototyping & Deployment
 
-HTML/CSS · React · TypeScript · GitHub · Netlify · Netlify Functions · WordPress · DIVI
+HTML/CSS · React · TypeScript · Vite · Lovable · VS Code · Git · GitHub · npm · WordPress · DIVI · Firebase · Firebase Authentication · Cloud Firestore · Firebase CLI · Netlify · Netlify Functions
 
 ### 🎨 UX, Creative & Journey Design
 
